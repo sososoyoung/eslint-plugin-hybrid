@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-hybrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyishen/eslint-plugin-hybrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianyishen/eslint-plugin-hybrid/issues"
+  },
+  "homepage": "https://github.com/tianyishen/eslint-plugin-hybrid#readme"
+}
